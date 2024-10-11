@@ -44,7 +44,7 @@
     <img src="https://img.icons8.com/?size=512&id=62397&format=png" alt="solidworks" width="40" height="40"/> 
   </a> 
   <a href="https://www.tinkercad.com/" target="_blank" rel="noreferrer">
-    <img src="https://wichitalibrary.libnet.info/images/events/wichitalibrary/LOGOTINKERCAD.png" alt="tinkercad" width="40" height="40"/> 
+    <img src="https://content.instructables.com/FUT/HB6Q/K1I8IZM4/FUTHB6QK1I8IZM4.png?auto=webp&frame=1&md=MjAxOS0xMC0wOSAxMDowMDowNi4w" alt="tinkercad" width="40" height="40"/> 
   </a>
   <a href="https://cycling74.com/products/max/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_Max_8_software.jpg" alt="Max/MSP" width="40" height="40"/> 

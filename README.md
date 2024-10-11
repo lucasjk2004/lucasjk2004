@@ -47,6 +47,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Tinkercad_logo.svg" alt="tinkercad" width="40" height="40"/> 
   </a>
   <a href="https://cycling74.com/products/max/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Max8icon.svg" alt="Max/MSP" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_Max_8_software.jpg" alt="Max/MSP" width="40" height="40"/> 
   </a>
 </p>

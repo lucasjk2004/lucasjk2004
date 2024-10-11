@@ -35,16 +35,16 @@
     <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://kicad.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/kicad-1.svg" alt="kicad" width="40" height="40"/> 
+    <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/kicad-icon.png" alt="kicad" width="40" height="40"/> 
   </a> 
   <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Autocad_logo.svg/512px-Autocad_logo.svg.png" alt="autocad" width="40" height="40"/> 
+    <img src="https://seeklogo.com/images/A/autocad-logo-69326D7728-seeklogo.com.png" alt="autocad" width="40" height="40"/> 
   </a> 
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/solidworks-1.svg" alt="solidworks" width="40" height="40"/> 
+    <img src="https://img.icons8.com/?size=512&id=62397&format=png" alt="solidworks" width="40" height="40"/> 
   </a> 
   <a href="https://www.tinkercad.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Tinkercad_logo.svg" alt="tinkercad" width="40" height="40"/> 
+    <img src="https://wichitalibrary.libnet.info/images/events/wichitalibrary/LOGOTINKERCAD.png" alt="tinkercad" width="40" height="40"/> 
   </a>
   <a href="https://cycling74.com/products/max/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_Max_8_software.jpg" alt="Max/MSP" width="40" height="40"/> 

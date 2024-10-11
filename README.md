@@ -7,8 +7,14 @@
 <h3 align="left">Projects:</h3>
 <ul>
   <li><strong>Wireless Remote Control Rover (Jan - Mar 2024):</strong> Collaborated with IEEE Open Project Spaces club to build an RC Rover, integrating Arduino Nano, NRF24 transceivers, and gearbox motors. Designed 3D-printed parts using Solidworks and coded a wireless control system for joystick-driven steering.</li>
-  <li><strong>Gesture-Based Rock-Paper-Scissors Game (Aug 2024 - Present):</strong> Leading a team in the Video Game Design Club to develop a Python OpenCV-powered game that tracks hand gestures for playing rock-paper-scissors. Built the gesture recognition system for smooth, real-time gameplay interactions.</li>
-  <li><strong>Monophonic Sound Analysis and Wireless Visualizer (Jan - Mar 2024):</strong> Designed a performance device using Max/MSP and Arduino that transforms live sound input into colorful LED visuals. Utilized FFT analysis for real-time frequency processing and MIDI note translation.</li>
+  
+  <li><strong>Gesture-Based Rock-Paper-Scissors Game (Aug 2024 - Present):</strong> Leading a team in the Video Game Design Club to develop a Python OpenCV-powered game that tracks hand gestures for playing rock-paper-scissors. Built the gesture recognition system for smooth, real-time gameplay interactions.
+    <a href="https://drive.google.com/file/d/1NDwTVZWbNpYxG6lC9CjscleJnFmeV7Dj/view?usp=share_link" target="_blank">Check out the project demo</a>
+  </li>
+  
+  <li><strong>Monophonic Sound Analysis and Wireless Visualizer (Jan - Mar 2024):</strong> Designed a performance device using Max/MSP and Arduino that transforms live sound input into colorful LED visuals. Utilized FFT analysis for real-time frequency processing and MIDI note translation.
+    <a href="https://docs.google.com/document/d/1Ae9jhs-d7T_zmnWZkgmKJcZAngri4R7ertkOq0EZSI0/edit?usp=share_link" target="_blank">Read more about the Max/MSP project</a>
+  </li>
 </ul>
 
 <h3 align="left">Skills:</h3>

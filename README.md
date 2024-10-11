@@ -30,5 +30,23 @@
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://kicad.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/kicad-1.svg" alt="kicad" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Autocad_logo.svg/512px-Autocad_logo.svg.png" alt="autocad" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/solidworks-1.svg" alt="solidworks" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tinkercad.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Tinkercad_logo.svg" alt="tinkercad" width="40" height="40"/> 
+  </a>
+  <a href="https://cycling74.com/products/max/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Max8icon.svg" alt="Max/MSP" width="40" height="40"/> 
   </a>
 </p>

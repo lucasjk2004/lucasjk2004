@@ -9,7 +9,7 @@
   <li><strong>Wireless Remote Control Rover (Jan - Mar 2024):</strong> Collaborated with IEEE Open Project Spaces club to build an RC Rover, integrating Arduino Nano, NRF24 transceivers, and gearbox motors. Designed 3D-printed parts using Solidworks and coded a wireless control system for joystick-driven steering.</li>
   
   <li><strong>Gesture-Based Rock-Paper-Scissors Game (Aug 2024 - Present):</strong> Leading a team in the Video Game Design Club to develop a Python OpenCV-powered game that tracks hand gestures for playing rock-paper-scissors. Built the gesture recognition system for smooth, real-time gameplay interactions.
-    <a href="https://drive.google.com/file/d/1NDwTVZWbNpYxG6lC9CjscleJnFmeV7Dj/view?usp=share_link" target="_blank">Check out the project demo</a>
+    <a href="https://docs.google.com/presentation/d/1UUne4YUxR3RE6DxXmNOMfNT3raBKHn43YeCBF0TH9lw/edit#slide=id.gad10344254_0_475" target="_blank">Check out the project demo and pitch</a>
   </li>
   
   <li><strong>Monophonic Sound Analysis and Wireless Visualizer (Jan - Mar 2024):</strong> Designed a performance device using Max/MSP and Arduino that transforms live sound input into colorful LED visuals. Utilized FFT analysis for real-time frequency processing and MIDI note translation.

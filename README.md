@@ -6,17 +6,18 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li><strong>Gesture-Based Rock-Paper-Scissors Game (Aug 2024 - Present):</strong> Leading a team in the Video Game Design Club to develop a Python OpenCV-powered game that tracks hand gestures for playing rock-paper-scissors. Built the gesture recognition system for smooth, real-time gameplay interactions.
-    <a href="https://docs.google.com/presentation/d/1UUne4YUxR3RE6DxXmNOMfNT3raBKHn43YeCBF0TH9lw/edit#slide=id.gad10344254_0_475" target="_blank">Check out the project demo and pitch</a>
+    <li><strong>UCI Video Game Design Club - Audio Design Lead (Sep 2024 – Present):</strong> Designed and implemented a custom rhythm system using C# in Unity for a rhythm-based game. Composed and integrated an original soundtrack and animations for project presentations. Managed collaboration through GitHub and Trello for version control.
+    <a href="https://itch.io/jam/vgdc-at-uci-fall-2024-games/rate/3151721" target="_blank">Check out the project demo</a>
   </li>
-  
+
   <li><strong>Monophonic Sound Analysis and Wireless Visualizer (Jan - Mar 2024):</strong> Designed a performance device using Max/MSP and Arduino that transforms live sound input into colorful LED visuals. Utilized FFT analysis for real-time frequency processing and MIDI note translation.
     <a href="https://docs.google.com/document/d/1Ae9jhs-d7T_zmnWZkgmKJcZAngri4R7ertkOq0EZSI0/edit?usp=share_link" target="_blank">Read more about the Max/MSP project</a>
   </li>
-  
-  <li><strong>UCI Video Game Design Club - Audio Design Lead (Sep 2024 – Present):</strong> Designed and implemented a custom rhythm system using C# in Unity for a rhythm-based game. Composed and integrated an original soundtrack and animations for project presentations. Managed collaboration through GitHub and Trello for version control.
-    <a href="https://itch.io/jam/vgdc-at-uci-fall-2024-games/rate/3151721" target="_blank">Check out the project demo</a>
+    <li><strong>Gesture-Based Rock-Paper-Scissors Game (Aug 2024 - Present):</strong> Leading a team in the Video Game Design Club to develop a Python OpenCV-powered game that tracks hand gestures for playing rock-paper-scissors. Built the gesture recognition system for smooth, real-time gameplay interactions.
+    <a href="https://docs.google.com/presentation/d/1UUne4YUxR3RE6DxXmNOMfNT3raBKHn43YeCBF0TH9lw/edit#slide=id.gad10344254_0_475" target="_blank">Check out the project demo and pitch</a>
   </li>
+  
+
 </ul>
 
 <h3 align="left">Skills:</h3>

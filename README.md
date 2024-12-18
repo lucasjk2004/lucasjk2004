@@ -6,7 +6,7 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-    <li><strong>UCI Video Game Design Club - Audio Design Lead (Sep 2024 – Present):</strong> Designed and implemented a custom rhythm system using C# in Unity for a rhythm-based game. Composed and integrated an original soundtrack and animations for project presentations. Managed collaboration through GitHub and Trello for version control.
+    <li><strong>UCI Video Game Design Club - Speepy Audio Design Lead (Sep 2024 – Present):</strong> Assisted in designing custom rhythm system using C# in Unity for a rhythm-based game. Composed an original soundtrack for integration with synchronized animations. Managed collaboration through GitHub and Trello for version control.
     <a href="https://itch.io/jam/vgdc-at-uci-fall-2024-games/rate/3151721" target="_blank">Check out the project demo</a>
   </li>
 

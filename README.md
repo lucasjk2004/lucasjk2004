@@ -2,12 +2,12 @@
 <h3 align="center">Pursuing BS Electrical Engineering & BA Music @ UC Irvine</h3>
 
 <h3 align="left">About Me:</h3>
-<p align="left">I'm a passionate electrical engineering and music double major at UC Irvine (GPA: 3.4/4.0, graduating June 2026). I love working on hands-on projects that combine technology and creativity. My experience spans from designing circuits and programming robots to building gesture-controlled games and music performance devices. I'm always eager to explore new challenges and collaborate with like-minded people in the tech and music space.</p>
+<p align="left">I'm a passionate electrical engineering and music double major at UC Irvine (Graduating June 2026). I love working on hands-on projects that combine technology and creativity. My experience spans from designing circuits and programming robots to building gesture-controlled games and music performance devices. I'm always eager to explore new challenges and collaborate with like-minded people in the tech and music space.</p>
 
 <h3 align="left">Projects:</h3>
 <ul>
     <li><strong>UCI Video Game Design Club - Speepy Audio Design Lead (Sep 2024 – Present):</strong> Assisted in designing custom rhythm system using C# in Unity for a rhythm-based game. Composed an original soundtrack for integration with synchronized animations. Managed collaboration through GitHub and Trello for version control.
-    <a href="https://itch.io/jam/vgdc-at-uci-fall-2024-games/rate/3151721" target="_blank">Check out the project demo</a>
+    <a href="https://itch.io/jam/vgdc-at-uci-fall-2024-games/rate/3151721" target="_blank">Check out the gamejam submisssion</a>
   </li>
 
   <li><strong>Monophonic Sound Analysis and Wireless Visualizer (Jan - Mar 2024):</strong> Designed a performance device using Max/MSP and Arduino that transforms live sound input into colorful LED visuals. Utilized FFT analysis for real-time frequency processing and MIDI note translation.

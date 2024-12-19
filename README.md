@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/lucasjk2004" target="_blank">Github</a> |
-<a href="https://linkedin.com/in/lucasjk2004" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/lucas-kang-700b12234/" target="_blank">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

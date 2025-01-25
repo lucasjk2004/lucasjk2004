@@ -13,7 +13,7 @@
 <h3 align="left">Skills:</h3>
 <ul>
   <li><strong>Languages:</strong> C++, C#, C, Python, Verilog</li>
-  <li><strong>Tools:</strong> Max/MSP, Unity, ROS, Docker, Altium, KiCAD, Fusion, OrcaSlicer</li>
+  <li><strong>Tools:</strong> Max/MSP, Unity, ROS, Altium, KiCAD, Vivado, Fusion, OrcaSlicer</li>
   <li><strong>Technical:</strong> PCB Design, 3D Printing, Soldering</li>
 </ul>
 

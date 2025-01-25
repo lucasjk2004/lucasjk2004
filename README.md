@@ -6,10 +6,9 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-    <li><strong>UCI Video Game Design Club - Audio Design Lead (Sep 2024 – Present):</strong> Designed rhythm system and soundtrack for a Unity-based game. <a href="https://itch.io/jam/vgdc-at-uci-fall-2024-games/rate/3151721" target="_blank">Gamejam submission</a></li>
+    <li><strong>UCI Video Game Design Club - Audio Design Lead (Sep 2024 – Present):</strong> Helped design rhythm system and soundtrack for a Unity-based game. <a href="https://itch.io/jam/vgdc-at-uci-fall-2024-games/rate/3151721" target="_blank">Gamejam submission</a></li>
     <li><strong>Monophonic Sound Analysis & Visualizer (Jan - Mar 2024):</strong> Created a device transforming live sound into LED visuals using Max/MSP and Arduino. <a href="https://docs.google.com/document/d/1Ae9jhs-d7T_zmnWZkgmKJcZAngri4R7ertkOq0EZSI0/edit?usp=share_link" target="_blank">Read more</a></li>
-    <li><strong>Gesture-Based Rock-Paper-Scissors Game (Aug 2024 - Present):</strong> Led development of Python OpenCV-powered game with hand gesture tracking. <a href="https://docs.google.com/presentation/d/1UUne4YUxR3RE6DxXmNOMfNT3raBKHn43YeCBF0TH9lw/edit#slide=id.gad10344254_0_475" target="_blank">Demo & pitch</a></li>
-</ul>
+
 
 <h3 align="left">Skills:</h3>
 <ul>
